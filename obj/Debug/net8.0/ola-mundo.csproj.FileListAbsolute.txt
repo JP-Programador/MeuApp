@@ -12,3 +12,4 @@
 /home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.pdb
 /home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.genruntimeconfig.cache
 /home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ref/ola-mundo.dll
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.sourcelink.json
