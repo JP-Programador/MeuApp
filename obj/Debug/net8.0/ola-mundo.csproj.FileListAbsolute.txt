@@ -1,0 +1,14 @@
+/home/admin-JoaoPedro/ola-mundo/bin/Debug/net8.0/ola-mundo
+/home/admin-JoaoPedro/ola-mundo/bin/Debug/net8.0/ola-mundo.deps.json
+/home/admin-JoaoPedro/ola-mundo/bin/Debug/net8.0/ola-mundo.runtimeconfig.json
+/home/admin-JoaoPedro/ola-mundo/bin/Debug/net8.0/ola-mundo.dll
+/home/admin-JoaoPedro/ola-mundo/bin/Debug/net8.0/ola-mundo.pdb
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.AssemblyInfoInputs.cache
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.AssemblyInfo.cs
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.csproj.CoreCompileInputs.cache
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.dll
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/refint/ola-mundo.dll
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.pdb
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ola-mundo.genruntimeconfig.cache
+/home/admin-JoaoPedro/ola-mundo/obj/Debug/net8.0/ref/ola-mundo.dll
